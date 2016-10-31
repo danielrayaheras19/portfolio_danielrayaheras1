@@ -4,6 +4,7 @@ body {
   font-family: Arial, sans-serif;
   color: #92e; /* black */
   text-align: left;
+  background-color: #48a;
 }
 h1 {
   font-size: 1.8em;
@@ -11,12 +12,11 @@ h1 {
   color: #0000ff;
   text-align: center;
 }
-body {
-  background-color: #48a;
-}
+
 h1 p {
-  color: #94b;
+  color: #84a;
   background-position: center;
+  font-size: 34px;
 
 }
 h2 {
