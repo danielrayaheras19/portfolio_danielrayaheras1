@@ -2,7 +2,7 @@ body {
   font-size: 1em;
   font-weight: normal;
   font-family: Arial, sans-serif;
-  color: #92e; /* black */
+color: #000ff0; /* black */
   text-align: left;
   background-color: #48a;
 }
@@ -14,17 +14,17 @@ h1 {
 }
 
 h1 p {
-  color: #84a;
+  color: #000ff4;
   background-position: center;
   font-size: 34px;
 
 }
 h2 {
-  color: #61d;
+  color: #000ff6;
   font-size: 42px;
 }
 p {
-  color: navy;
+  color: #000ff1;
   font-family: Roman; cursive;
   font-size: 23px;
 }
