@@ -1,1 +1,35 @@
 /**KERNNING & ASSIGNMENT STYLES ***/
+body {
+  font-size: 1em;
+  font-weight: normal;
+  font-family: Arial, sans-serif;
+color: #000ff0; /* black */
+  text-align: left;
+  background-color: #48a;
+}
+h1 {
+  font-size: 1.8em;
+  font-weight: bold;
+  color: #0000ff;
+  text-align: center;
+}
+
+h1 p {
+  color: #000ff4;
+  background-position: left;
+  font-size: 32px;
+
+}
+h2 {
+  color: #000ff6;
+  font-size: 42px;
+}
+p {
+  color: #000ff1;
+  font-family: Roman; cursive;
+  font-size: 23px;
+}
+li {
+  color: purple;
+  font-weight: bolder;
+}
