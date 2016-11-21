@@ -1,8 +1,4 @@
-/**KERNNING & ASSIGNMENT STYLES ***/
 body {
-  font-size: 1em;
-  font-weight: normal;
-  font-family: Arial, sans-serif;
 color: #000ff0; /* black */
   text-align: left;
   background-color: #48a;
@@ -32,4 +28,13 @@ p {
 li {
   color: purple;
   font-weight: bolder;
+}
+rectangle {
+  font-weight: "Helvatica";
+  font-size: 1em;
+  background-color: blue;
+  border: solid 1px purple;
+  height: 300px;
+  width: 800px;
+  margin: 0 auto;
 }
