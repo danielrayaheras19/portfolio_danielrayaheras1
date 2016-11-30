@@ -1,40 +1,29 @@
-body {
-color: #000ff0; /* black */
-  text-align: left;
-  background-color: #48a;
-}
-h1 {
-  font-size: 1.8em;
-  font-weight: bold;
-  color: #0000ff;
-  text-align: center;
-}
+/*** KERNING & LEADING ASSIGNMENT STYLES ***/
 
-h1 p {
-  color: #000ff4;
-  background-position: left;
-  font-size: 32px;
-
-}
-h2 {
-  color: #000ff6;
-  font-size: 42px;
-}
-p {
-  color: #000ff1;
-  font-family: Roman; cursive;
-  font-size: 23px;
-}
-li {
-  color: purple;
-  font-weight: bolder;
-}
-rectangle {
-  font-weight: "Helvatica";
+/* Do not change this style */
+.rectangle {
+  font-family: "Helvetica";
   font-size: 1em;
-  background-color: blue;
-  border: solid 1px purple;
+  background-color: white;
+  border: solid 1px black;
   height: 300px;
   width: 800px;
   margin: 0 auto;
+}
+
+#kerning {
+  /* Use the letter-spacing property to change the kerning on the text to fill the div below
+
+  http://www.w3schools.com/cssref/pr_text_letter-spacing.asp
+  */
+
+  letter-spacing: 5px;
+}
+
+#leading {
+  /* Use the line-height property to change the leading on the text to fill the div below
+
+  http://www.w3schools.com/cssref/pr_dim_line-height.asp
+  */
+  line-height: 39px;
 }

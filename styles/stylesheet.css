@@ -1,6 +1,6 @@
 body {
   font-size: 1em;
-  font-weight: normal;
+  font-weight: bold;
   font-family: Arial, sans-serif;
 color: #000ff0; /* black */
   text-align: left;
@@ -25,8 +25,8 @@ h2 {
 }
 p {
   color: #000ff1;
-  font-family: Roman; cursive;
   font-size: 23px;
+  font-family: "Roman", cursive;
 }
 li {
   color: purple;
