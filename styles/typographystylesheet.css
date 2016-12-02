@@ -1,3 +1,7 @@
+/* Place this at the very top of your typographystyles.css document */
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900');
+
 /*** KERNING & LEADING ASSIGNMENT STYLES ***/
 
 /* Do not change this style */
@@ -6,7 +10,7 @@
   font-size: 1em;
   background-color: white;
   border: solid 1px black;
-  height: 500px;
+  height: 300px;
   width: 800px;
   margin: 0 auto;
 }
@@ -80,7 +84,8 @@ section p {
 
 /* Change this style */
  #biggerText {
-
+   font-size: 40px;
+   font-family: "Roman"
 }
 
 /* Change this style */
@@ -97,7 +102,7 @@ section p {
 }
 
 #paul {
-  font-size: 3em;
+  font-size: 15em;
 }
 /*
   POSTER TYPOGRAPHY ASSIGNMENT CRITERIA:
@@ -117,10 +122,41 @@ section p {
   width: 800px;
   margin: 0 auto;
 }
-/* Place this at the very top of your typographystyles.css document */
-
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900');
-
+#top1{
+  font-family: "Impact";
+  font-size: 50px;
+  color: red;
+  background-position: left;
+  height: 400px;
+  width: 500px;
+}
+#bottom2{
+font-family: "Impact";
+font-style: "Helvetica";
+font-size: 35px;
+color: red;
+background-position: bottom;
+height: 200px;
+width: 500px;
+}
+#bottom{
+  font-family: "Impact";
+  font-style: "Italic";
+  font-size: 70px;
+  color: red;
+  background-position: left;
+  height: 400px;
+  width: 250px;
+}
+#bottomcorner{
+  font-family: "Impact";
+  font-weight: lighter;
+  background-color: orange;
+  color: red;
+  font-size: 18px;
+  height: 150px;
+  width: 550px;
+}
 /* Place these styles towards the bottom of your typographystyles.css document */
 
 .weights {
@@ -130,25 +166,25 @@ section p {
 
 #weight1 {
   /* Change the font-weight property to give it a thin-weight */
-  font-weight: 100;
+  font-weight: 200;
 }
 
 #weight2 {
   /* Change the font-weight property to give it a light-weight */
-  font-weight: 200;
+  font-weight: 300;
 }
 
 #weight3 {
   /* Change the font-weight property to give it a regular-weight */
-  font-weight: 300;
+  font-weight: 400;
 }
 
 #weight4 {
   /* Change the font-weight property to give it a bold-weight */
-  font-weight: 400;
+  font-weight: 500;
 }
 
 #weight5 {
   /* Change the font-weight property to give it a ultra-bold-weight */
-  font-weight: 500;
+  font-weight: 900;
 }
