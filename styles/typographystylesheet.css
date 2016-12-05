@@ -123,36 +123,37 @@ section p {
   margin: 0 auto;
 }
 #top1{
-  font-family: "Impact";
+  font-family: "Nova Script";
   font-size: 50px;
   color: red;
-  background-position: left;
+  text-shadow:4px 4px #8a1212;
   height: 400px;
   width: 500px;
 }
 #bottom2{
-font-family: "Impact";
+font-family: "Abril Fatface";
 font-style: "Helvetica";
 font-size: 35px;
-color: red;
-background-position: bottom;
+color: orange;
 height: 200px;
 width: 500px;
+text-align: center;
+line-height: 65px;
+text-shadow: 2px 2px red;
 }
 #bottom{
-  font-family: "Impact";
+  font-family: "Lobster";
   font-style: "Italic";
   font-size: 70px;
-  color: red;
-  background-position: left;
+  color: yellow;
+  text-shadow: 3px 3px black;
   height: 400px;
   width: 250px;
 }
 #bottomcorner{
-  font-family: "Impact";
-  font-weight: lighter;
-  background-color: orange;
-  color: red;
+  font-family: "Pacifico";
+  text-shadow: 2px 2px lavender;
+  color: #560049;
   font-size: 18px;
   height: 150px;
   width: 550px;
