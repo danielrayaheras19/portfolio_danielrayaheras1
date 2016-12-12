@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee|Nosifer');
+
 body {
   font-size: 1em;
   font-weight: bold;
@@ -14,17 +16,11 @@ h1 {
   font-style: "Bungee";
 }
 
-h1 p {
-  color: #000ff4;
-  background-position: left;
-  font-size: 32px;
-
-}
 h2 {
   color: #000ff6;
   font-size: 42px;
 }
-}
+
 li {
   color: purple;
   font-weight: 400;
@@ -32,8 +28,15 @@ li {
 p{
   color: gold;
   text-shadow: 5px 2px black;
-  font-family: 'Nosifer', cursive;
-  font-size: 48.7px;
+  font-family: "Nosifer", cursive;
+  font-size: 37.7px;
+}
+h3{
+  color: red;
+  text-shadow: 4px 5px lavender;
+  font-size: 39.8px;
+}
+
 }
 li{
   font-family: "Nosifer";
