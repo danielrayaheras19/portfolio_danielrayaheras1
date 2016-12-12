@@ -6,37 +6,37 @@ body {
   font-family: "Bungee",cursive;
 color: #000ff0;
   text-align: left;
-  background-color: #48a;
+  background-color: mediumpurple;
 }
 h1 {
   font-size: 1.8em;
   font-weight: bold;
-  color: #0000ff;
+  color: midnightblue;
   text-align: center;
   font-style: "Bungee";
 }
 
 h2 {
-  color: #000ff6;
+  color: slateblue;
   font-size: 42px;
 }
 
 li {
-  color: purple;
+  color: violet;
   font-weight: 400;
 }
 p{
   color: gold;
   text-shadow: 5px 2px black;
   font-family: "Nosifer", cursive;
-  font-size: 37.7px;
+  font-size: 1.9em;
+  text-align: center;
 }
 h3{
   color: red;
-  text-shadow: 4px 5px lavender;
-  font-size: 39.8px;
-}
-
+  text-shadow: 4px 2px black;
+  font-size: 2em;
+  text-align: center;
 }
 li{
   font-family: "Nosifer";
