@@ -31,12 +31,14 @@ p{
   font-family: "Nosifer", cursive;
   font-size: 1.9em;
   text-align: center;
+  line-height: 3em;
 }
 h3{
   color: red;
-  text-shadow: 4px 2px black;
+  text-shadow: 5px 2px black;
   font-size: 2em;
   text-align: center;
+  line-height: 3em;
 }
 li{
   font-family: "Nosifer";
