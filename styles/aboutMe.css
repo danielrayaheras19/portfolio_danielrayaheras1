@@ -5,7 +5,7 @@ body {
   width: 80%;
   margin: 0 auto;
   color: #444;
-  line-height: ;
+  line-height: 1.5;
   background-color: #eee;
   font-family: "Roboto";
 }
@@ -25,26 +25,26 @@ h2 {
   text-align: center;
   padding: 0;
 }
-p {
+/*p {
   color: #000ff1;
   font-size: 23px;
-}
-li {
+}*/
+/*li {
   color: purple;
   font-weight: bolder;
-}
+}*/
 #aboutmePhoto{
   clear:both;
-  margin: 0 auto;
+  margin: 100px auto;
   border-radius: 10px;
-  max-width: 500px
+  max-width: 500px;
   display:block;
   -webkit-transform: rotate(270deg);
 }
 ul li{
-  color: #e81c4f;
-  font-size: 1.1em;
-  font-family: "Oswald";
+  /*color: #e81c4f;
+  font-size: 1.1em;*/
+  /*font-family: "Oswald";*/
   letter-spacing: 1px;
   text-decoration: none;
 }
@@ -61,5 +61,10 @@ div ul{
 nav ul li{
   float: left;
   width: 12%;
-  margin-bottom: 30px;
+  margin-bottom: 100;
+}
+ul {
+    list-style: none; /* Remove list bullets */
+    padding: 0;
+    margin: 0;
 }
